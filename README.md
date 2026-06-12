@@ -1,8 +1,6 @@
-# Google Cloud Pub/Sub — C# Demo
+# Google Cloud Pub/Sub 
 
 A **.NET 8** console application demonstrating publish/subscribe messaging on **Google Cloud Pub/Sub** with service account authentication.
-
-This project is a companion to [QueueBacklogIntelligence](https://github.com/shwetaptl/QueueBacklogIntelligence), a production-grade Azure Service Bus monitoring system. Together they demonstrate cross-cloud messaging expertise — the same pub/sub pattern applied on both **Google Cloud** and **Azure**.
 
 ---
 
